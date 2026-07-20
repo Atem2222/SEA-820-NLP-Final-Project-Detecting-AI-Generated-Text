@@ -4,8 +4,8 @@
 
 ### Team Members
 
-- Student 1: **[Name]** — **[Student ID]**
-- Student 2: **[Name]** — **[Student ID]**
+- Student 1: **Atem Ako Eyong Atem** — **113714224**
+- Student 2: **Nahaeli Brunder** — **145268223**
 
 ---
 
@@ -65,7 +65,7 @@ This project uses an **AI vs. Human Text** dataset from Kaggle.
 Add the exact Kaggle dataset link here:
 
 ```text
-[PASTE KAGGLE DATASET URL HERE]
+https://www.kaggle.com/datasets/arjunverma2004/ai-vs-human-text-balanced-180k-records?resource=download
 ```
 
 The original dataset contained hundreds of thousands of text samples. To make Transformer fine-tuning manageable, a balanced sample of **40,000 texts** was created:
