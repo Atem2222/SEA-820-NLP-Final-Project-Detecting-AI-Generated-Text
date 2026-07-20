@@ -37,9 +37,6 @@ SEA820-AI-Text-Detection/
 ├── requirements.txt
 ├── .gitignore
 │
-├── data/
-│   └── README.md
-│
 ├── results/
 │   ├── final_model_comparison.csv
 │   ├── distilbert_experiment_log.csv
